@@ -6,6 +6,7 @@ export default function App() {
     <div className="App">
       <ChakraProvider theme={theme}>
         <Button colorScheme="cyan">Fuck off</Button>
+        <p>WTF</p>
       </ChakraProvider>
     </div>
   );
